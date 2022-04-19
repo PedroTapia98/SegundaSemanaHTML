@@ -1,5 +1,5 @@
 # SegundaSemanaHTML
-Solución a al siguinete problematica de una práctica planteada por Innovaccion Virtual
+Solución a la siguinete problematica de una práctica planteada por Innovaccion Virtual
 ## Caso: Pastelería
 
 Descripción:
